@@ -1,0 +1,209 @@
+
+=== A (19 elements) ===
+
+A
+A ∨ B
+A ∨ B ∨ C
+A ∨ B ∨ C ∨ D
+A ∨ B ∨ D
+A ∨ B ∨ C∧D
+A ∨ C
+A ∨ C ∨ D
+A ∨ C ∨ B∧D
+A ∨ D
+A ∨ D ∨ B∧C
+A ∨ B∧C
+A ∨ B∧C ∨ B∧D
+A ∨ B∧C ∨ B∧D ∨ C∧D
+A ∨ B∧C ∨ C∧D
+A ∨ B∧D
+A ∨ B∧D ∨ C∧D
+A ∨ C∧D
+A ∨ B∧C∧D
+
+=== B (14 elements) ===
+
+B
+B ∨ C
+B ∨ C ∨ D
+B ∨ C ∨ A∧D
+B ∨ D
+B ∨ D ∨ A∧C
+B ∨ A∧C
+B ∨ A∧C ∨ A∧D
+B ∨ A∧C ∨ A∧D ∨ C∧D
+B ∨ A∧C ∨ C∧D
+B ∨ A∧D
+B ∨ A∧D ∨ C∧D
+B ∨ C∧D
+B ∨ A∧C∧D
+
+=== C (11 elements) ===
+
+C
+C ∨ D
+C ∨ D ∨ A∧B
+C ∨ A∧B
+C ∨ A∧B ∨ A∧D
+C ∨ A∧B ∨ A∧D ∨ B∧D
+C ∨ A∧B ∨ B∧D
+C ∨ A∧D
+C ∨ A∧D ∨ B∧D
+C ∨ B∧D
+C ∨ A∧B∧D
+
+=== D (9 elements) ===
+
+D
+D ∨ A∧B
+D ∨ A∧B ∨ A∧C
+D ∨ A∧B ∨ A∧C ∨ B∧C
+D ∨ A∧B ∨ B∧C
+D ∨ A∧C
+D ∨ A∧C ∨ B∧C
+D ∨ B∧C
+D ∨ A∧B∧C
+
+=== A∧B (41 elements) ===
+
+A∧B
+A∧B ∨ A∧C
+A∧B ∨ A∧C ∨ B∧C
+A∧B ∨ A∧C ∨ B∧C ∨ A∧D
+A∧B ∨ A∧C ∨ B∧C ∨ A∧D ∨ B∧D
+A∧B ∨ A∧C ∨ B∧C ∨ A∧D ∨ B∧D ∨ C∧D
+A∧B ∨ A∧C ∨ B∧C ∨ A∧D ∨ C∧D
+A∧B ∨ A∧C ∨ B∧C ∨ B∧D
+A∧B ∨ A∧C ∨ B∧C ∨ B∧D ∨ C∧D
+A∧B ∨ A∧C ∨ B∧C ∨ C∧D
+A∧B ∨ A∧C ∨ A∧D
+A∧B ∨ A∧C ∨ A∧D ∨ B∧D
+A∧B ∨ A∧C ∨ A∧D ∨ B∧D ∨ C∧D
+A∧B ∨ A∧C ∨ A∧D ∨ C∧D
+A∧B ∨ A∧C ∨ A∧D ∨ B∧C∧D
+A∧B ∨ A∧C ∨ B∧D
+A∧B ∨ A∧C ∨ B∧D ∨ C∧D
+A∧B ∨ A∧C ∨ C∧D
+A∧B ∨ A∧C ∨ B∧C∧D
+A∧B ∨ B∧C
+A∧B ∨ B∧C ∨ A∧D
+A∧B ∨ B∧C ∨ A∧D ∨ B∧D
+A∧B ∨ B∧C ∨ A∧D ∨ B∧D ∨ C∧D
+A∧B ∨ B∧C ∨ A∧D ∨ C∧D
+A∧B ∨ B∧C ∨ B∧D
+A∧B ∨ B∧C ∨ B∧D ∨ C∧D
+A∧B ∨ B∧C ∨ B∧D ∨ A∧C∧D
+A∧B ∨ B∧C ∨ C∧D
+A∧B ∨ B∧C ∨ A∧C∧D
+A∧B ∨ A∧D
+A∧B ∨ A∧D ∨ B∧D
+A∧B ∨ A∧D ∨ B∧D ∨ C∧D
+A∧B ∨ A∧D ∨ C∧D
+A∧B ∨ A∧D ∨ B∧C∧D
+A∧B ∨ B∧D
+A∧B ∨ B∧D ∨ C∧D
+A∧B ∨ B∧D ∨ A∧C∧D
+A∧B ∨ C∧D
+A∧B ∨ A∧C∧D
+A∧B ∨ A∧C∧D ∨ B∧C∧D
+A∧B ∨ B∧C∧D
+
+=== A∧C (23 elements) ===
+
+A∧C
+A∧C ∨ B∧C
+A∧C ∨ B∧C ∨ A∧D
+A∧C ∨ B∧C ∨ A∧D ∨ B∧D
+A∧C ∨ B∧C ∨ A∧D ∨ B∧D ∨ C∧D
+A∧C ∨ B∧C ∨ A∧D ∨ C∧D
+A∧C ∨ B∧C ∨ B∧D
+A∧C ∨ B∧C ∨ B∧D ∨ C∧D
+A∧C ∨ B∧C ∨ C∧D
+A∧C ∨ B∧C ∨ C∧D ∨ A∧B∧D
+A∧C ∨ B∧C ∨ A∧B∧D
+A∧C ∨ A∧D
+A∧C ∨ A∧D ∨ B∧D
+A∧C ∨ A∧D ∨ B∧D ∨ C∧D
+A∧C ∨ A∧D ∨ C∧D
+A∧C ∨ A∧D ∨ B∧C∧D
+A∧C ∨ B∧D
+A∧C ∨ B∧D ∨ C∧D
+A∧C ∨ C∧D
+A∧C ∨ C∧D ∨ A∧B∧D
+A∧C ∨ A∧B∧D
+A∧C ∨ A∧B∧D ∨ B∧C∧D
+A∧C ∨ B∧C∧D
+
+=== B∧C (13 elements) ===
+
+B∧C
+B∧C ∨ A∧D
+B∧C ∨ A∧D ∨ B∧D
+B∧C ∨ A∧D ∨ B∧D ∨ C∧D
+B∧C ∨ A∧D ∨ C∧D
+B∧C ∨ B∧D
+B∧C ∨ B∧D ∨ C∧D
+B∧C ∨ B∧D ∨ A∧C∧D
+B∧C ∨ C∧D
+B∧C ∨ C∧D ∨ A∧B∧D
+B∧C ∨ A∧B∧D
+B∧C ∨ A∧B∧D ∨ A∧C∧D
+B∧C ∨ A∧C∧D
+
+=== A∧D (10 elements) ===
+
+A∧D
+A∧D ∨ B∧D
+A∧D ∨ B∧D ∨ C∧D
+A∧D ∨ B∧D ∨ C∧D ∨ A∧B∧C
+A∧D ∨ B∧D ∨ A∧B∧C
+A∧D ∨ C∧D
+A∧D ∨ C∧D ∨ A∧B∧C
+A∧D ∨ A∧B∧C
+A∧D ∨ A∧B∧C ∨ B∧C∧D
+A∧D ∨ B∧C∧D
+
+=== B∧D (6 elements) ===
+
+B∧D
+B∧D ∨ C∧D
+B∧D ∨ C∧D ∨ A∧B∧C
+B∧D ∨ A∧B∧C
+B∧D ∨ A∧B∧C ∨ A∧C∧D
+B∧D ∨ A∧C∧D
+
+=== C∧D (4 elements) ===
+
+C∧D
+C∧D ∨ A∧B∧C
+C∧D ∨ A∧B∧C ∨ A∧B∧D
+C∧D ∨ A∧B∧D
+
+=== A∧B∧C (8 elements) ===
+
+A∧B∧C
+A∧B∧C ∨ A∧B∧D
+A∧B∧C ∨ A∧B∧D ∨ A∧C∧D
+A∧B∧C ∨ A∧B∧D ∨ A∧C∧D ∨ B∧C∧D
+A∧B∧C ∨ A∧B∧D ∨ B∧C∧D
+A∧B∧C ∨ A∧C∧D
+A∧B∧C ∨ A∧C∧D ∨ B∧C∧D
+A∧B∧C ∨ B∧C∧D
+
+=== A∧B∧D (4 elements) ===
+
+A∧B∧D
+A∧B∧D ∨ A∧C∧D
+A∧B∧D ∨ A∧C∧D ∨ B∧C∧D
+A∧B∧D ∨ B∧C∧D
+
+=== A∧C∧D (2 elements) ===
+
+A∧C∧D
+A∧C∧D ∨ B∧C∧D
+
+=== B∧C∧D (1 elements) ===
+
+B∧C∧D
+
+TOTAL ELEMENTS: 165
