@@ -1,4 +1,4 @@
-# Counting by Leading Meet in Free Distributive Lattices
+ # Counting by Leading Meet in Free Distributive Lattices
 
 Data and code accompanying the paper:
 
@@ -6,7 +6,7 @@ Data and code accompanying the paper:
 
 ## Overview
 
-The free distributive lattice $FD(n)$ has $M(n)$ elements, where $M(n)$ is the $n$th Dedekind number. This repository contains:
+The free distributive lattice $FD(n)$ has $M(n)$ elements, where $M(n)$ is the $n$-th Dedekind number. This repository contains:
 
 - The paper itself (`paper/`)
 - Computed distributions of elements of $FD(n)$ by leading meet, for $n = 3$, $\dots$, $7$ (`data/`)
